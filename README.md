@@ -1,8 +1,8 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
 BUTUH LICENSE/PW CHAT TELE GUA
->> https://t.me/FlixxOfficiall
+>> https://t.me/KevinOffcial
 
-Comand Run Install Thema
+Comand Run Install Thema|node
 
-bash <(curl https://raw.githubusercontent.com/FlixxOffc/thema/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/sasuke1845/KevinCodee/main/install.sh) 
